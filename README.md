@@ -1,6 +1,6 @@
 # AI Chatbot for Water Conservation Awareness
 
-This repository is a submission-ready student project implementing a multilingual chatbot (English/Hindi/Marathi) to promote water conservation. It contains a simple FastAPI backend, a minimal React frontend, a knowledge base, and a SQLite schema.
+This repository is a submission-ready student project implementing a multilingual chatbot to promote water conservation. It contains a simple FastAPI backend, a minimal React frontend, a knowledge base, and a SQLite schema.
 
 ## Quick start
 
